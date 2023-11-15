@@ -3,3 +3,4 @@
 
 This is a work in progress
 <p>It is a database for the course Digital Humanities
+<p> The data in this dataset comes from the collection of the Met Museum, and lists everything that comes up after a quick search for the word 'dragon'
